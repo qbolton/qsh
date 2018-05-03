@@ -1,0 +1,5 @@
+typeset version="3.1.4"
+module[0]="source=${HOME}/../u90659/qsh/dat/schemes.dat; target=${HOME}/qsh/dat"
+module[1]="source=${HOME}/../u90659/qsh/env/tools.env; target=${HOME}/qsh/env"
+module[2]="source=${HOME}/../u90659/qsh/env/init.env; target=${HOME}/qsh/env"
+module[3]="source=${HOME}/../u90659/qsh/env/user.env; target=${HOME}/qsh/env"

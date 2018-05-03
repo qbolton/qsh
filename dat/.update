@@ -1,0 +1,55 @@
+machine venus login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
+machine neptune login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
+machine habanero login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
+machine jalapeno login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
+machine tabasco login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
+machine tutter login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
+machine kovu login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
+machine treelo login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
+machine zira login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
+machine beauty login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
+machine iago login u90659 password venus899
+macdef init
+put /prod/users/capdev/u90659/qsh.tar /prod/users/capdev/u90659/qsh.tar
+quit
+
